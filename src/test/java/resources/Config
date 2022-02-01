@@ -1,0 +1,6 @@
+widthWindow=1920
+heightWindow=1080
+urlFirstPage=https://demoqa.com/
+timeWait=10
+maximize=true
+browser=Chrome
